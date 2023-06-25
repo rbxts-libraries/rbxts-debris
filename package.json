@@ -40,9 +40,9 @@
 	],
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/rbxts-libraries/rbxts-cleanser/issues"
+		"url": "https://github.com/rbxts-libraries/rbxts-debris/issues"
 	},
-	"homepage": "https://github.com/rbxts-libraries/rbxts-cleanser/README.md",
+	"homepage": "https://github.com/rbxts-libraries/rbxts-debris/README.md",
 	"publishConfig": {
 		"access": "public"
 	},

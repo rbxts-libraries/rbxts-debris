@@ -22,7 +22,7 @@ yarn add @rbxts/debris
 pnpm add @rbxts/debris
 ```
 
-## Cleanser API
+## Debris API
 
 ### Types
 
