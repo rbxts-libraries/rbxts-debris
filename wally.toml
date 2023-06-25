@@ -1,0 +1,9 @@
+[package]
+name = "rbxts-libraries/rbxts-debris"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+private = true
+
+[dependencies]
+Debris = "robloxiandemo/debris@0.1.0"

@@ -1,0 +1,53 @@
+{
+	"name": "@rbxts/debris",
+	"version": "1.0.0",
+	"description": "A port of RobloxianDemo's Debris module.",
+	"main": "src/Debris/init.luau",
+	"types": "src/Debris/index.d.ts",
+	"files": [
+		"src/Debris",
+		"Packages"
+	],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1."
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rbxts-libraries/rbxts-debris.git"
+	},
+	"keywords": [
+		"cleaner",
+		"cleanser",
+		"cleanup",
+		"debris",
+		"garbage collection",
+		"janitor",
+		"maid",
+		"roblox",
+		"roblox-typescript",
+		"roblox-ts",
+		"service"
+	],
+	"author": {
+		"name": "RobloxianDemo",
+		"url": "https://github.com/RobloxianDemo"
+	},
+	"contributors": [
+		{
+			"name": "RobloxianDemo",
+			"url": "https://github.com/RobloxianDemo"
+		}
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/rbxts-libraries/rbxts-cleanser/issues"
+	},
+	"homepage": "https://github.com/rbxts-libraries/rbxts-cleanser/README.md",
+	"publishConfig": {
+		"access": "public"
+	},
+	"devDependencies": {
+		"@rbxts/compiler-types": "^2.1.0-types.1",
+		"@rbxts/types": "^1.0.688"
+	}
+}
