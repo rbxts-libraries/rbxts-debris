@@ -91,7 +91,7 @@ Part.Position = new Vector3(0, 5, 0);
 Part.Size = new Vector3(5, 1, 5);
 Part.Parent = Workspace;
 
-Debris.AddObject(Part, math.huge);
+AddObject(Part, math.huge);
 task.wait(3);
 Debris.RemoveObject(Part, "Part");
 ```
