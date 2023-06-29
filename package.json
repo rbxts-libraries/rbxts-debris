@@ -1,6 +1,6 @@
 {
 	"name": "@rbxts/debris",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A port of RobloxianDemo's Debris module.",
 	"main": "src/Debris/init.luau",
 	"types": "src/Debris/index.d.ts",
