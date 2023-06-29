@@ -93,5 +93,5 @@ Part.Parent = Workspace;
 
 AddObject(Part, math.huge);
 task.wait(3);
-Debris.RemoveObject(Part, "Part");
+RemoveObject(Part, "Part");
 ```
