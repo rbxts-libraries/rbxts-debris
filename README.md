@@ -82,7 +82,7 @@ Retrieve all debris instances.
 import { Workspace } from "@rbxts/services";
 
 // Modules
-import { Debris } from "@rbxts/debris";
+import { AddObject } from "@rbxts/debris";
 
 // Functions
 const Part = new Instance("Part");
